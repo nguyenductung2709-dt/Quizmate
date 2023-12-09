@@ -16,7 +16,7 @@ services:
       - project.env
 
   database:
-    container_name: 
+    container_name: database-p2-4f39a9d5-9b37-4b13-b7d4-5693677e9d48
     image: postgres:14.1
     restart: "no"
     env_file:
