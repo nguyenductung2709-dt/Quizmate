@@ -1,3 +1,0 @@
-<% layout("./layouts/layout.eta") %>
-
-<p> There are no questions here </p>

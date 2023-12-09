@@ -1,5 +1,0 @@
-<% layout("./layouts/layout.eta") %>
-
-<h1> Incorrect! </h1>
-<p> The correct option was <%= it.correct_answer.option_text %> </p>
-<a href = "/quiz/<%= it.question.topic_id %>"> Next question </a>

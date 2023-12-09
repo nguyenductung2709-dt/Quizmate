@@ -1,7 +1,0 @@
-<% layout("./layouts/layout.eta") %>
-
-<% if (it.question) { %>
-    <h1> <%= it.question.question_text %> </h1> 
-<% } else { %>
-  <p>There is no question.</p>
-<% } %>
