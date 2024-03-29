@@ -7,18 +7,24 @@ https://wsd-course-project-2-7gea.onrender.com/
 This application serves as a comprehensive learning tool, providing users with the ability to:
 
 Create and manage topics: Users can generate topics of interest, add associated questions, and administer these topics.
+
 Engage in quizzes: Users can participate in quizzes generated from the pool of questions available within each topic.
+
 Register and log in: Users can create accounts, log in securely, and access personalized functionalities based on their role.
 
 ## Functionalities
 Topic Management
 - Listing Topics: Alphabetically organized list of available topics.
+  
 - Adding and Deleting Topics: Admins can add new topics and delete existing ones, managing associated questions effortlessly.
-Question Administration
+  
 - Adding Questions: Users can append questions to specific topics, contributing to the learning content.
+  
 - Answer Option Management: Admins can include answer options, allowing users to interact with questions comprehensively.
 Quiz Interaction
+
 - Random Question Selection: Users can engage with random questions from chosen topics.
+  
 - Answer Validation: Immediate feedback on quiz responses, aiding learning and self-assessment.
 
 ## Starting and shutting down
