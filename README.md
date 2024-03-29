@@ -2,9 +2,6 @@
 
 ## Online website 
 https://wsd-course-project-2-7gea.onrender.com/
-admin account: 
-email: trueadmin@gmail.com
-password: 123456789
 
 ## Contents
 This application serves as a comprehensive learning tool, providing users with the ability to:
